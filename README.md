@@ -29,11 +29,46 @@ I'm a passionate **AI & Full Stack Developer** focused on creating intelligent s
 <tr>
 <td width="50%">
 
+### 🏥 [HealWise - Chronic Disease Management](https://github.com/Sham1606/healwise)
+AI-powered mobile platform for disease detection and personalized care
+- 🎯 **Tech:** Python, React Native, Flask, AWS
+- ✨ **Features:** 
+  - Disease prediction using ML models (LightGBM, XGBoost, Random Forest, KNN)
+  - LLM-powered 7-day personalized care plans
+  - Wearable device integration for real-time health monitoring
+  - Adaptive recommendations with smart alerts
+- 🚀 **Status:** Active Development
+- 🏆 **Impact:** Proactive chronic disease management through AI
+
+</td>
+<td width="50%">
+
 ### 🤖 [Interactive SQL Assistant](https://github.com/Sham1606/chat_with_db)
 A natural language interface for database queries using LLMs
-- 🎯 **Tech:** Python, LangChain, NLP
-- ✨ **Features:** Chat-based SQL generation
+- 🎯 **Tech:** Python, LangChain, Flask, React.js
+- ✨ **Features:** 
+  - Convert natural language to SQL queries
+  - Dynamic query execution interface
+  - Robust database connection management
+  - Optimized query performance
 - 🚀 **Status:** Active Development
+- 💡 **Use Case:** Simplifying database interactions for non-technical users
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 [ConvoFlow - Real-time Chat App](https://github.com/Sham1606/convoflow)
+Modern chat application with seamless real-time communication
+- 🎯 **Tech:** React.js, Tailwind CSS, Socket.IO, MongoDB
+- ✨ **Features:** 
+  - Real-time messaging with Socket.IO
+  - Beautiful UI with DaisyUI & Tailwind CSS
+  - User-friendly and interactive interface
+- 🚀 **Status:** Completed
+- 🎨 **Highlight:** Focus on exceptional user experience
 
 </td>
 <td width="50%">
@@ -43,12 +78,13 @@ Modern, responsive portfolio showcasing my work
 - 🎯 **Tech:** React.js, Tailwind CSS
 - ✨ **Features:** Interactive UI, Project Gallery
 - 🚀 **Status:** Live & Updated
+- 🔗 **Visit:** [shamsportfolio.vercel.app](https://shamsportfolio.vercel.app)
 
 </td>
 </tr>
 </table>
 
-> 💡 **More projects coming soon!** Check out my repositories for AI/ML experiments and web applications.
+> 💡 **More exciting projects on the way!** Check out my repositories for AI/ML experiments and web applications.
 
 ---
 
@@ -59,10 +95,12 @@ Modern, responsive portfolio showcasing my work
 <br>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 </details>
 
@@ -77,6 +115,7 @@ Modern, responsive portfolio showcasing my work
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </details>
 
@@ -87,17 +126,28 @@ Modern, responsive portfolio showcasing my work
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 </details>
 
 <details open>
-<summary><b>🛠️ Tools & Others</b></summary>
+<summary><b>☁️ Cloud & DevOps</b></summary>
 <br>
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Other Technologies</b></summary>
+<br>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </details>
 
@@ -125,17 +175,38 @@ Modern, responsive portfolio showcasing my work
 ```python
 class ShamGanesh:
     def __init__(self):
+        self.name = "Sham Ganesh S"
+        self.role = "AI & Full Stack Developer"
         self.current_focus = ["AWS Services", "Advanced ML", "AI Agents"]
-        self.building = "Interactive SQL Assistant"
-        self.learning = ["MLOps", "Production AI Deployment"]
-        self.open_to = ["AI & Data Science Collaborations", "NLP Projects", "LLM Applications"]
+        self.building = ["HealWise Platform", "Interactive SQL Assistant"]
+        self.learning = ["MLOps", "Production AI Deployment", "Healthcare AI"]
+        self.open_to = [
+            "AI & Data Science Collaborations",
+            "Healthcare Tech Projects",
+            "NLP & LLM Applications"
+        ]
     
     def get_expertise(self):
         return {
-            "languages": ["Python", "JavaScript", "C"],
-            "ai_ml": ["NLP", "LLMs", "Generative AI", "Deep Learning"],
-            "web": ["React.js", "Tailwind CSS", "Flask"],
-            "data": ["Pandas", "NumPy", "Data Analysis"]
+            "languages": ["Python", "JavaScript", "C", "C++", "Java", "SQL"],
+            "ai_ml": [
+                "NLP", "LLMs", "Generative AI", "Deep Learning",
+                "LangChain", "LightGBM", "XGBoost", "Random Forest"
+            ],
+            "web": [
+                "React.js", "React Native", "Tailwind CSS", 
+                "Flask", "Socket.IO"
+            ],
+            "data": ["Pandas", "NumPy", "Data Analysis", "NLTK"],
+            "cloud": ["AWS Services"],
+            "databases": ["MongoDB", "MySQL"]
+        }
+    
+    def current_projects(self):
+        return {
+            "🏥 HealWise": "AI-powered chronic disease management",
+            "🤖 SQL Assistant": "Natural language to SQL converter",
+            "💬 ConvoFlow": "Real-time chat application"
         }
     
     def say_hi(self):
@@ -147,23 +218,50 @@ me.say_hi()
 
 ---
 
+## 🏆 Achievements & Certifications
+
+<table>
+<tr>
+<td>
+
+**🎓 Certifications**
+- MongoDB Course - MongoDB
+- Explore Generative AI - Microsoft
+- Java Programming - NPTEL
+- DELF A1 & A2 - Alliance Française
+
+</td>
+<td>
+
+**🌟 Leadership & Activities**
+- Secretary, Infinity AID (Dept. Club) | 2024-25
+- Parliament Elections Volunteer | 2024
+- Front-End Developer Intern - ClientsBridge
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🤝 Let's Collaborate!
 
 I'm always excited to work on innovative projects! I'm particularly interested in:
 
+- 🏥 **Healthcare AI** - Disease prediction, personalized care systems
 - 🤖 **AI & Machine Learning** - NLP, LLMs, Computer Vision
-- 📊 **Data Science** - Predictive Analytics, Data Visualization
-- 🌐 **Full Stack Development** - Interactive web applications
+- 📊 **Data Science** - Predictive analytics, data visualization
+- 🌐 **Full Stack Development** - Interactive web & mobile applications
 - 🚀 **Open Source** - Contributing to impactful projects
 
-**Looking for help with:** MLOps and deploying AI models to production at scale.
+**Open to:** AI/ML collaborations, healthcare tech projects, and production-ready AI applications!
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sham-ganesh16" target="_blank">
+  <a href="https://linkedin.com/in/sham-ganesh-s-922061302" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shamganesh1606@gmail.com">
@@ -171,6 +269,9 @@ I'm always excited to work on innovative projects! I'm particularly interested i
   </a>
   <a href="https://shamsportfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Sham1606" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -205,5 +306,7 @@ I'm always excited to work on innovative projects! I'm particularly interested i
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ### ⭐ If you find my work interesting, consider starring my repositories!
+
+### 📧 Open for collaborations | 💼 Available for opportunities
 
 </div>
